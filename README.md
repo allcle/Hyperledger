@@ -3,6 +3,7 @@
 #### cooperation tool
 * Github (file share, code share, meeting backup, document backup)
     + (추후 프로젝트 심사 통과하면 슬랙 혹은 드라이브 등 적극 활용 예정)
+    + 현재 드롭박스, 드라이브 등 대신 깃헙으로 통일하겠습니다..!
 * Google docs (실시간 미팅 회의록)
 
 #### 할일
