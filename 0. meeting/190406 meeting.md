@@ -37,3 +37,14 @@
 3. 방대한 자료
 
 ### 결론적으로, 보안과 무결성이 중요 포인트!!
+
+### 전체적인 계획
+* Front-End
+  1. Wep app
+  2. 근주, 희성
+  3. 플랫폼 결정 (Web site vs Web app)
+
+* Back-End
+  1. Hyperledger
+  2. 인수, 준오
+  3. AWS 활용
